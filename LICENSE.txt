@@ -4,4 +4,4 @@ This software is free as in beer. This is to say that if you find this useful, y
 
 Reuse and alteration. If you reuse the code here and alter it, then you should be a good person and commit it back up. Some people can’t, and I get that. So no worries if you don’t. But it’s a cool thing to do. And future proofs you. And might end up with me buying you a beer. And likely a good beer. Unless you don’t like good beer. No judgement if you don’t like good beer. OK, total judgement. Kinda’ like you’re probably judging my code right now. Don’t judge. Just make better. 
 
-<3 krypted.com
+<3 krypted.com 
